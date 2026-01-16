@@ -8,7 +8,7 @@ Permite a los usuarios hacer preguntas sobre la empresa y recibir respuestas aut
 - Frontend: React
 - Backend: Node.js, Express
 - Comunicación API: Axios
-- CSS: Inline (puede actualizar a TailwindCSS o Bootstrap)
+- CSS: Inline
 
 ## Instalación
 1. Clonar repositorio
